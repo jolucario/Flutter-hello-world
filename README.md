@@ -15,12 +15,19 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## Pictures
-image 1/4 createwing a new project in Windows Terminal
-![Picture 1](img/5.png "creating a new project in Windows Terminal")
-image 2/4 trying to run the new project in Windows Terminal
-![Picture 1](img/6.png "trying to run the new project in Windows Terminal")
-image 3/4 the project is now running
-![Picture 1](img/7.png "the project is now running")
-image 4/4 showing the UI of the program
-![Picture 1](img/2.png "showing the UI of the program")
+# Images & Videos
+## Terminal
+image 1 - creating a new project
+![Image 1](img/5.png "creating a new project")
+image 2 - trying to run the new project
+![Image 2](img/6.png "trying to run the new project")
+image 3 - the project is now running
+![Image 3](img/7.png "the project is now running")
+## Showing the UI of the program
+video 1 - the UI in action
+![Video 1](img/3.mp4 "the UI in action")
+## debugger and profiler
+image 4 - An Observatory debugger and profiler on Windows is available at: http://127.0.0.1:50945/c2sdWN2Q7vc=/
+![Image 4](img/50945.png "An Observatory debugger and profiler on Windows is available at: http://127.0.0.1:50945/c2sdWN2Q7vc=/")
+image 5 - The Flutter DevTools debugger and profiler on Windows is available at: http://127.0.0.1:9101?uri=http://127.0.0.1:50945/c2sdWN2Q7vc=/
+![Image 5](img/9101.png "The Flutter DevTools debugger and profiler on Windows is available at: http://127.0.0.1:9101?uri=http://127.0.0.1:50945/c2sdWN2Q7vc=/")
