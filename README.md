@@ -1,6 +1,6 @@
 # hello_world_flutter
 
-A new Flutter project.
+This repo's purpose is to showcase the standard “hello world” Flutter project.
 
 ## Getting Started
 
@@ -25,7 +25,7 @@ image 3 - the project is now running
 ![Image 3](img/7.png "the project is now running")
 ## Showing the UI of the program
 video 1 - the UI in action
-[img/3.mp4 "the UI in action"](https://fxtwitter.com/bigcozyorca/status/1644913244296056832?t=eZfM6liVrugJ7IkcQ6PeWg&s=19)
+![Video 1](img/3.mp4 "the UI in action")
 ## debugger and profiler
 image 4 - An Observatory debugger and profiler on Windows is available at: http://127.0.0.1:50945/c2sdWN2Q7vc=/
 ![Image 4](img/50945.png "An Observatory debugger and profiler on Windows is available at: http://127.0.0.1:50945/c2sdWN2Q7vc=/")
